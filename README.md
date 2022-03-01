@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kaivh-aronu
+- 👀 I’m interested in Python and SQL for the sake of business and data analytics.
+- 🌱 I’m currently learning Python and how to implement it in a real-world fashion. 
+- 💞️ I’m looking to collaborate on any beginner project using SQL, VBA, and Python. 
